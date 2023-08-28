@@ -8,7 +8,7 @@ I received help and support from my fellow Data Vis classmates via our Discord S
 
 I rewatched several of the classes from Module 9 using the Zoom recordings found at BSC > Zoom > Cloud Recordings. In conjunction with that, I re-reviewed the Module 9 Instructor Demos provided through GitLab.
 
-## Workflow
+### Workflow
 The SQL work is found in 'sql-challenge_DB.sql'. The answers/results are found in /Results, that include CSV results, JPGs, and PDFs of the answers to questions 1-8.
 
 I utilized the following resources:
