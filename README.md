@@ -4,7 +4,7 @@
 
 ## Overview
 
-I received help and support from my fellow Data Vis classmates via our Discord Server and BCS-provided Slack, as well as our class-provided Slack Channel. I regularly attend both before- and after-class Office Hours to engage the materials with the Instructor and TAs.
+I received help and support from my fellow Data Vis classmates via our Discord Server as well as our class-provided Slack Channel. I regularly attend both before- and after-class Office Hours to engage the materials with the Instructor and TAs.
 
 I rewatched several of the classes from Module 9 using the Zoom recordings found at BSC > Zoom > Cloud Recordings. In conjunction with that, I re-reviewed the Module 9 Instructor Demos provided through GitLab.
 
